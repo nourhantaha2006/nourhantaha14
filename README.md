@@ -8,6 +8,14 @@
 <h2 align="center"> Hi, I'm Nourhan Taha 👩‍💻 </h2>
 <h4 align="center"> Data Analytics || AI / Machine Learning Engineer </h4>
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201015363614)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BRNpQEGTU/)  
+
+</div>
+
 ---
 
 ### 📌 About Me
@@ -60,13 +68,6 @@
 ### 🌍 Languages
 - 🇪🇬 Arabic: Native  
 - 🇬🇧 English: B2 (Upper-Intermediate)  
-
----
-
-### 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201015363614)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BRNpQEGTU/)  
 
 ---
 
